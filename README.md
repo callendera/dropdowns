@@ -12,4 +12,4 @@ Created a basic dropdown with list item links
 Added style and smoother transitions when hovered over links
 
 ## Dropdown 3
-Made the links disappear behind the "dropdown" button with a smooth transition of the links falling underneath the button.
+Made the links disappear behind the "dropdown" button with a smooth transition of the links falling underneath the button when hovered.
